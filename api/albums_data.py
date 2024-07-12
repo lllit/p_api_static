@@ -1,0 +1,32 @@
+
+data_albums = [
+  {'name_album': 'Broken Abst',
+  'url': {'spotify': 'https://open.spotify.com/album/30Ou1iVNvjR9GoxcblxN0d'},
+  'image': 'https://i.scdn.co/image/ab67616d00001e026968c6857aa2815faae9e5b2',
+  'release_date': '2024-05-17'},
+ {'name_album': 'Ecosfera',
+  'url': {'spotify': 'https://open.spotify.com/album/28BcVxBeXqYgqXAHDsi4uT'},
+  'image': 'https://i.scdn.co/image/ab67616d00001e02e20a2846bd5a05bb999b6b4b',
+  'release_date': '2023-10-06'},
+ {'name_album': 'Dirt Dub',
+  'url': {'spotify': 'https://open.spotify.com/album/4pjhkhfoGXZ6yDKSWMRBFx'},
+  'image': 'https://i.scdn.co/image/ab67616d00001e02e8c351cf71af27267492505d',
+  'release_date': '2023-09-14'},
+ {'name_album': 'Hiperbórea',
+  'url': {'spotify': 'https://open.spotify.com/album/4VXnt0WOFoMgp7fa224FL6'},
+  'image': 'https://i.scdn.co/image/ab67616d00001e02f45da560fa522e0174f6259c',
+  'release_date': '2023-01-03'},
+ {'name_album': 'Magickspaces',
+  'url': {'spotify': 'https://open.spotify.com/album/4lESNqKe26X4jE0JspKpMn'},
+  'image': 'https://i.scdn.co/image/ab67616d00001e0270a3f32d0c4609d500f91ed2',
+  'release_date': '2022-12-06'},
+ {'name_album': 'Flames Underwater',
+  'url': {'spotify': 'https://open.spotify.com/album/07mHcnkbVAupmBJum63rrB'},
+  'image': 'https://i.scdn.co/image/ab67616d00001e024f4fe2e9bd61a1b8d6b96bc6',
+  'release_date': '2022-12-05'},
+ {'name_album': 'Eudaimonia',
+  'url': {'spotify': 'https://open.spotify.com/album/7ApEL8eOqNELunZiLO7u9n'},
+  'image': 'https://i.scdn.co/image/ab67616d00001e020a170bb3efb83d6ef03968dd',
+  'release_date': '2022-05-22'}
+ ]
+
